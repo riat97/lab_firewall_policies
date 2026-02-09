@@ -1,8 +1,5 @@
 # Configurando Políticas de Firewall no FortiGate #
 
-<img width="691" height="197" alt="image" src="https://github.com/user-attachments/assets/0dfce2dc-56a6-4546-b848-168cbdf416e7" />
-##
-
 ### Primeiro Passo ###
 
 1. Criar um endereço de firewall para a sub-rede interna
